@@ -1,5 +1,7 @@
 # CTF.mn-Write-Up
 
+🔗 Site Link: https://ctf.mn/
+
 📄 A Write Up For CTF.mn Challenges/Tasks
 
 📰 What is CTF.mn? The site ctf.mn hosts a range of Capture The Flag (CTF) challenges across categories like cryptography, forensics, 
