@@ -2,7 +2,7 @@
 
 📄 A Write Up For CTF.mn Challenges/Tasks
 
-🔗 Site Link: https://ctf.mn/
+🔗 Site Link: [CTF Mongolia](https://ctf.mn/)
 
 📰 What is CTF.mn? 
 
